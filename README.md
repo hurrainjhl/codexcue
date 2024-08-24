@@ -3,13 +3,30 @@
 This repository contains projects developed during the CodexCue Python Development Internship program. The projects cover various Python applications, including URL shortening, a Pygame music player, a plagiarism checker, and a voice assistant.
 
 ## Table of Contents
+ 
+1. [Calculator](#Calculator)
+2. [URL Shortener](#url-shortener)
+3. [Pygame Music Player](#pygame-music-player)
+4. [Plagiarism Checker](#plagiarism-checker)
+5. [Voice Assistant](#voice-assistant)
+  
 
-1. [URL Shortener](#url-shortener)
-2. [Pygame Music Player](#pygame-music-player)
-3. [Plagiarism Checker](#plagiarism-checker)
-4. [Voice Assistant](#voice-assistant)
-5. [Installation](#installation)
-6. [License](#license)
+## Calculator
+A basic calculator application built using Python's tkinter library. This project provides a simple graphical user interface (GUI) to perform basic arithmetic operations.
+
+### Features
+1. Perform addition, subtraction, multiplication, and division.
+
+2. Clear input and output fields.
+
+3. User-friendly interface with buttons for digits and operations.
+
+   
+### Usage
+- Run the script calculator.py.
+- Use the on-screen buttons to enter numbers and select operations.
+- The result will be displayed on the output screen.
+
 
 ## URL Shortener
 
